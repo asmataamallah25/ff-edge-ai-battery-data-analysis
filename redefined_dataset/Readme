@@ -1,0 +1,16 @@
+This redefined dataset is constructed using different files from the Nasa battery aging dataset. 
+ 
+Files:
+
+B0005.mat      #The battery #5 is tested in room temperature (24°C) 
+B0006.mat      #The battery #6 is tested in room temperature (24°C) 
+B0025.mat      #The battery #6 is tested in room temperature (24°C) 
+
+
+B0029.mat     #The battery #29 is tested in an ambient temperature of 43°C
+B0030.mat     #The battery #30 is tested in an ambient temperature of 43°C
+
+B0045.mat.    #The battery #45 is tested in an ambient temperature of 4°C
+B0046.mat.    #The battery #46 is tested in an ambient temperature of 4°C
+
+
